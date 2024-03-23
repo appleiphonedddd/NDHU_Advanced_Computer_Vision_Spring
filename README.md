@@ -1,6 +1,6 @@
 # NDHU_Computer-Vision_Spring
 
-`NDHU_Computer-Vision_Spring` project belongs to the Operating system engineering at National Dong Hwa University. The purpose of this project is to compile source code then create a Linux Operating system in QEMU system emulator, finally you can input linux command line in terminal
+`NDHU_Computer-Vision_Spring` project belongs to the Advanced Computer Vision at National Dong Hwa University. The purpose of this project is to know about Computer Vision Algorithms and Applications in CS, including famous algorithms for images processing and etc.
 
 ## Contents
 
@@ -11,7 +11,6 @@
 - [Deployment](#Deployment)
 - [Frameworks Used](#Frameworks-Used)
 - [Author](#Author)
-
 
 ### Getting Started
 
@@ -28,13 +27,7 @@
 sudo apt-het update
 ```
 
-2. Install QEMU
-
-```sh
-pip install -r requirement.txt
-```
-
-3. Clone the repo and enter repo folder
+2. Clone the repo and enter repo folder
 
 ```sh
 git clone https://github.com/appleiphonedddd/NDHU_Computer-Vision_Spring.git
@@ -45,14 +38,32 @@ cd NDHU_Computer-Vision_Spring
 
 ```
 filetree 
-├── HW1
-│   └── HW1.ipynb
-├── HW2
-│   └── HW2.ipynb
-├── HW3
-│   └── HW3.ipynb
+├── HW
+│   ├── HW1
+│   │   ├── Adaptive Background Image.png
+│   │   ├── Adaptive Background_subracted.png
+│   │   ├── Foreground Mask.png
+│   │   ├── HW1.ipynb
+│   │   ├── Optimize Adaptive Background Image.png
+│   │   ├── Original Frame.png
+│   │   ├── Picture.jpg
+│   │   └── Virtual systhesis image.png
+│   └── HW2
+│       └── HW2.ipynb
 ├── LICENSE
-└── README.md
+├── Practice
+│   ├── 0229
+│   │   └── main.ipynb
+│   ├── 0307
+│   │   └── main.ipynb
+│   ├── 0314
+│   │   └── main.ipynb
+│   └── 0321
+│       ├── main.ipynb
+│       ├── tile_texture7.jpg
+│       └── tile_texture9.jpg
+├── README.md
+└── requirements.txt
 ```
 
 ### Deployment
@@ -60,12 +71,15 @@ filetree
 Compile Makefile then you can input linux command line in terminal
 
 ```sh
-make qemu-nox
+pip install -r requirements.txt
 ```
 
 ### Frameworks Used
 
-- [QEMU](https://www.qemu.org/)
+- [Textbook](https://szeliski.org/Book/)
+- [OpenCV](https://opencv.org/)
+- [Matplotlib](https://matplotlib.org/stable/)
+- [Numpy](https://numpy.org/)
 
 ### Author
 
