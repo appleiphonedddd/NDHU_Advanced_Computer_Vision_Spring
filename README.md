@@ -112,6 +112,8 @@ pip install -r requirements.txt
 - [OpenCV](https://opencv.org/)
 - [Matplotlib](https://matplotlib.org/stable/)
 - [Numpy](https://numpy.org/)
+- [MediaPipe](https://ai.google.dev/edge/mediapipe/solutions/guide)
+- [ultralytics](https://docs.ultralytics.com/#yolo-a-brief-history)
 
 ### Author
 
