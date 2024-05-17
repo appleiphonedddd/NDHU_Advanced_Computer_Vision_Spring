@@ -41,18 +41,9 @@ pip install -r requirements.txt
 filetree 
 ├── HW
 │   ├── HW1
-│   │   ├── Adaptive Background Image.png
-│   │   ├── Adaptive Background_subracted.png
-│   │   ├── Foreground Mask.png
-│   │   ├── HW1.ipynb
-│   │   ├── Optimize Adaptive Background Image.png
-│   │   ├── Original Frame.png
-│   │   ├── Picture.jpg
-│   │   └── Virtual systhesis image.png
+│   │   └── HW1.ipynb
 │   ├── HW2
-│   │   ├── eos_map_0.png
-│   │   ├── HW2.ipynb
-│   │   └── result.png
+│   │   └── HW2.ipynb
 │   └── HW3
 │       ├── hat.png
 │       ├── main.ipynb
@@ -60,17 +51,13 @@ filetree
 │       └── Result.png
 ├── LICENSE
 ├── Midterm
-│   ├── cursor.png
-│   ├── input.png
 │   ├── Midtern.ipynb
 │   ├── pier_1&2.jpg
 │   ├── pier_1.jpg
 │   ├── pier_2.jpg
 │   ├── pier_3.jpg
 │   ├── Result.jpg
-│   ├── skin.png
-│   ├── test.png
-│   └── timer.png
+│   └── WiiPlay.mp4
 ├── Practice
 │   ├── 0229
 │   │   └── main.ipynb
@@ -79,17 +66,11 @@ filetree
 │   ├── 0314
 │   │   └── main.ipynb
 │   ├── 0321
-│   │   ├── main.ipynb
-│   │   ├── tile_texture7.jpg
-│   │   └── tile_texture9.jpg
+│   │   └── main.ipynb
 │   ├── 0328
-│   │   ├── gear_tooth.png
-│   │   ├── main.ipynb
-│   │   └── Result.png
+│   │   └── main.ipynb
 │   ├── 0411
-│   │   ├── 611221201.png
-│   │   ├── main.ipynb
-│   │   └── result.png
+│   │   └── main.ipynb
 │   ├── 0425
 │   │   ├── main.ipynb
 │   │   └── red_blood_cell.jpg
@@ -99,10 +80,20 @@ filetree
 │   ├── 0509
 │   │   ├── final.png
 │   │   └── main.ipynb
-│   └── 0516
+│   ├── 0516
+│   │   ├── main.ipynb
+│   │   └── yolov8n.pt
+│   ├── 0523
+│   │   ├── bus.jpg
+│   │   ├── main.ipynb
+│   │   ├── yolov8n.pt
+│   │   └── yolov8n-seg.pt
+│   ├── 0530
+│   │   ├── haarcascade_frontalface_default.xml
+│   │   └── main.ipynb
+│   └── 0606
 │       ├── main.ipynb
-│       ├── WiiPlay.mp4
-│       ├── yolov8n.pt
+│       └── WiiPlay.mp4
 ├── README.md
 └── requirements.txt
 ```
