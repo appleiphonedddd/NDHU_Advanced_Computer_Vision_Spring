@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": false,
-      "cwd": "/home/infor/CS/Code/NDHU_CSIE1040AA/Solution/Review1/Problem6",
-      "program": "/home/infor/CS/Code/NDHU_CSIE1040AA/Solution/Review1/Problem6/build/Debug/outDebug",
+      "cwd": "/home/infor/CS/Code/NDHU_Computer-Vision_Spring/Practice/0606",
+      "program": "/home/infor/CS/Code/NDHU_Computer-Vision_Spring/Practice/0606/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
