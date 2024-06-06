@@ -40,67 +40,50 @@ pip install -r requirements.txt
 ```
 filetree 
 ├── HW
-│   ├── HW1
-│   │   └── HW1.ipynb
-│   ├── HW2
-│   │   └── HW2.ipynb
-│   └── HW3
-│       ├── hat.png
-│       ├── main.ipynb
-│       ├── mustache.png
-│       └── Result.png
+│   ├── HW1
+│   │   └── HW1.ipynb
+│   ├── HW2
+│   │   └── HW2.ipynb
+│   ├── HW3
+│   │   ├── HW3.ipynb
+│   └── HW4
+│       ├── HW4.ipynb
 ├── LICENSE
 ├── Midterm
-│   ├── Midtern.ipynb
-│   ├── pier_1&2.jpg
-│   ├── pier_1.jpg
-│   ├── pier_2.jpg
-│   ├── pier_3.jpg
-│   ├── Result.jpg
-│   └── WiiPlay.mp4
+│   ├── Midtern.ipynb
 ├── Practice
-│   ├── 0229
-│   │   └── main.ipynb
-│   ├── 0307
-│   │   └── main.ipynb
-│   ├── 0314
-│   │   └── main.ipynb
-│   ├── 0321
-│   │   └── main.ipynb
-│   ├── 0328
-│   │   └── main.ipynb
-│   ├── 0411
-│   │   └── main.ipynb
-│   ├── 0425
-│   │   ├── main.ipynb
-│   │   └── red_blood_cell.jpg
-│   ├── 0502
-│   │   ├── main.ipynb
-│   │   └── result.png
-│   ├── 0509
-│   │   ├── final.png
-│   │   └── main.ipynb
-│   ├── 0516
-│   │   ├── main.ipynb
-│   │   └── yolov8n.pt
-│   ├── 0523
-│   │   ├── bus.jpg
-│   │   ├── main.ipynb
-│   │   ├── yolov8n.pt
-│   │   └── yolov8n-seg.pt
-│   ├── 0530
-│   │   ├── haarcascade_frontalface_default.xml
-│   │   └── main.ipynb
-│   └── 0606
-│       ├── main.ipynb
-│       └── WiiPlay.mp4
+│   ├── 0229
+│   │   └── main.ipynb
+│   ├── 0307
+│   │   └── main.ipynb
+│   ├── 0314
+│   │   └── main.ipynb
+│   ├── 0321
+│   │   └── main.ipynb
+│   ├── 0328
+│   │   └── main.ipynb
+│   ├── 0411
+│   │   └── main.ipynb
+│   ├── 0425
+│   │   └── main.ipynb
+│   ├── 0502
+│   │   ├── main.ipynb
+│   ├── 0509
+│   │   └── main.ipynb
+│   ├── 0516
+│   ├── 0523
+│   │   ├── main.ipynb
+│   ├── 0530
+│   │   ├── main.ipynb
+│   └── 0606
+│       ├── main.ipynb
 ├── README.md
 └── requirements.txt
 ```
 
 ### Deployment
 
-Download the some jpg or mp4 file then execute the code in vscode!!
+Download the some `.jpg`, `.mp4` `.pk`file then execute the code in vscode!! Maybe use conda to create python environment
 
 ```sh
 pip install -r requirements.txt
