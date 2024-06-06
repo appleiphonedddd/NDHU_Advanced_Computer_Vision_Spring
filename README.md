@@ -27,11 +27,10 @@
 sudo apt-het update
 ```
 
-2. Clone the repo and enter repo folder
+2. Install libraries
 
 ```sh
-git clone https://github.com/appleiphonedddd/NDHU_Computer-Vision_Spring.git
-cd NDHU_Computer-Vision_Spring
+
 pip install -r requirements.txt
 ```
 
