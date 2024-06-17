@@ -1,6 +1,6 @@
 # NDHU_Computer-Vision_Spring
 
-`NDHU_Computer-Vision_Spring` project belongs to the Advanced Computer Vision at National Dong Hwa University. The purpose of this project is to know about Computer Vision Algorithms and Applications in CS, including famous algorithms for images processing, deeper learning and etc.
+`NDHU_Computer-Vision_Spring` project belongs to the Advanced Computer Vision at National Dong Hwa University. The purpose of this project is to know about Computer Vision Algorithms and Applications in CS, including famous algorithms for images processing, deeper learning, tracking people in video, OCR and etc.
 
 ## Contents
 
@@ -24,7 +24,7 @@
 1. Upgrade package
 
 ```sh
-sudo apt-het update
+sudo apt-get update
 ```
 
 2. Install libraries
@@ -38,18 +38,36 @@ pip install -r requirements.txt
 
 ```
 filetree 
+├── Final
+│   ├── car.mp4
+│   ├── final_acv_2024.ipynb
+│   ├── game4-1.png
+│   ├── game4-2.png
+│   ├── license_plate_detector.pt
+│   ├── WiiPlay.mp4
+│   └── yolov8n.pt
 ├── HW
 │   ├── HW1
 │   │   └── HW1.ipynb
 │   ├── HW2
 │   │   └── HW2.ipynb
 │   ├── HW3
+│   │   ├── hat.png
 │   │   ├── HW3.ipynb
+│   │   ├── mouth_close.png
+│   │   ├── mouth_open.png
+│   │   ├── mustache.png
+│   │   └── Result.png
 │   └── HW4
-│       ├── HW4.ipynb
+│       └── HW4.ipynb
 ├── LICENSE
 ├── Midterm
 │   ├── Midtern.ipynb
+│   ├── pier_1&2.jpg
+│   ├── pier_1.jpg
+│   ├── pier_2.jpg
+│   ├── pier_3.jpg
+│   └── Result.jpg
 ├── Practice
 │   ├── 0229
 │   │   └── main.ipynb
@@ -67,22 +85,24 @@ filetree
 │   │   └── main.ipynb
 │   ├── 0502
 │   │   ├── main.ipynb
+│   │   └── result.png
 │   ├── 0509
 │   │   └── main.ipynb
-│   ├── 0516
 │   ├── 0523
 │   │   ├── main.ipynb
+│   │   └── yolov8n-seg.pt
 │   ├── 0530
 │   │   ├── main.ipynb
+│   │   └── WiiPlay.mp4
 │   └── 0606
-│       ├── main.ipynb
+│       └── main.ipynb
 ├── README.md
 └── requirements.txt
 ```
 
 ### Deployment
 
-Download the some `.jpg`, `.mp4` `.pk`file then execute the code in vscode!! Maybe use conda to create python environment
+Download the some `.jpg`, `.mp4` `.pk`file then execute the code in vscode or jupyter notebook, Maybe use conda to create python environment!!!
 
 ```sh
 pip install -r requirements.txt
@@ -90,15 +110,17 @@ pip install -r requirements.txt
 
 ### Frameworks Used
 
-- [Textbook](https://szeliski.org/Book/)
+- [Computer Vision: Algorithms and Applications, 2nd ed](https://szeliski.org/Book/)
 - [OpenCV](https://opencv.org/)
 - [Matplotlib](https://matplotlib.org/stable/)
 - [Numpy](https://numpy.org/)
 - [MediaPipe](https://ai.google.dev/edge/mediapipe/solutions/guide)
-- [ultralytics](https://docs.ultralytics.com/#yolo-a-brief-history)
+- [Ultralytics](https://docs.ultralytics.com/#yolo-a-brief-history)
+- [Pytesseract](https://pytesseract.readthedocs.io/en/latest/)
+- [Datasets material](https://drive.google.com/drive/folders/1nJU1rYG76jVpoCnF2CXt6EMFI4tj11Cr)
 
 ### Author
 
-zozo5120@outlook.com
+611221201@gms.ndhu.edu.tw
 
 Name:Egor Lee
