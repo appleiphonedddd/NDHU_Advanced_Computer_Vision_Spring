@@ -27,11 +27,12 @@
 sudo apt-get update
 ```
 
-2. Install libraries
+2. Install Conda
 
 ```sh
 
-pip install -r requirements.txt
+chmod 777 Install_miniconda.sh
+./Install_miniconda.sh
 ```
 
 ### Directory Structure
@@ -123,4 +124,4 @@ pip install -r requirements.txt
 
 611221201@gms.ndhu.edu.tw
 
-Name:Egor Lee
+Egor Lee
