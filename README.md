@@ -103,7 +103,7 @@ filetree
 
 ### Deployment
 
-Download the some `.jpg`, `.mp4` `.pk`file then execute the code in vscode or jupyter notebook, Maybe use conda to create python environment!!!
+Download the some `.jpg`, `.mp4` `.pk` file then execute the code in vscode or jupyter notebook, It is recommended to install [Conda](https://hackmd.io/MkLFRrbqRbCYlf0k2FvTRg) to establish an experimental environment
 
 ```sh
 pip install -r requirements.txt
