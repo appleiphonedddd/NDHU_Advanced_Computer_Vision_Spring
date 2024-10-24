@@ -1,6 +1,6 @@
-# NDHU_Computer-Vision_Spring
+# NDHU_Advanced_Computer_Vision_Spring
 
-`NDHU_Computer-Vision_Spring` project belongs to the Advanced Computer Vision at National Dong Hwa University. The purpose of this project is to know about Computer Vision Algorithms and Applications in CS, including famous algorithms for images processing, deeper learning, tracking people in video, OCR and etc.
+`NDHU_Advanced_Computer_Vision_Spring` project belongs to the Advanced Computer Vision at National Dong Hwa University. The purpose of this project is to know about Computer Vision Algorithms and Applications in CS, including famous algorithms for images processing, deeper learning, tracking people in video, OCR and etc.
 
 ## Contents
 
