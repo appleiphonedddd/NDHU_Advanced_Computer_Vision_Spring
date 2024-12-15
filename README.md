@@ -39,66 +39,48 @@ chmod 777 Install_miniconda.sh
 
 ```
 filetree 
+├── env.yml
 ├── Final
-│   ├── car.mp4
-│   ├── final_acv_2024.ipynb
-│   ├── game4-1.png
-│   ├── game4-2.png
-│   ├── license_plate_detector.pt
-│   ├── WiiPlay.mp4
-│   └── yolov8n.pt
+│   └── Final.ipynb
 ├── HW
-│   ├── HW1
-│   │   └── HW1.ipynb
-│   ├── HW2
-│   │   └── HW2.ipynb
-│   ├── HW3
-│   │   ├── hat.png
-│   │   ├── HW3.ipynb
-│   │   ├── mouth_close.png
-│   │   ├── mouth_open.png
-│   │   ├── mustache.png
-│   │   └── Result.png
-│   └── HW4
-│       └── HW4.ipynb
+│   ├── HW1
+│   │   └── HW1.ipynb
+│   ├── HW2
+│   │   └── HW2.ipynb
+│   ├── HW3
+│   │   └── HW3.ipynb
+│   └── HW4
+│       └── HW4.ipynb
+├── Install_miniconda.sh
 ├── LICENSE
 ├── Midterm
-│   ├── Midtern.ipynb
-│   ├── pier_1&2.jpg
-│   ├── pier_1.jpg
-│   ├── pier_2.jpg
-│   ├── pier_3.jpg
-│   └── Result.jpg
+│   └── Midtern.ipynb
 ├── Practice
-│   ├── 0229
-│   │   └── main.ipynb
-│   ├── 0307
-│   │   └── main.ipynb
-│   ├── 0314
-│   │   └── main.ipynb
-│   ├── 0321
-│   │   └── main.ipynb
-│   ├── 0328
-│   │   └── main.ipynb
-│   ├── 0411
-│   │   └── main.ipynb
-│   ├── 0425
-│   │   └── main.ipynb
-│   ├── 0502
-│   │   ├── main.ipynb
-│   │   └── result.png
-│   ├── 0509
-│   │   └── main.ipynb
-│   ├── 0523
-│   │   ├── main.ipynb
-│   │   └── yolov8n-seg.pt
-│   ├── 0530
-│   │   ├── main.ipynb
-│   │   └── WiiPlay.mp4
-│   └── 0606
-│       └── main.ipynb
-├── README.md
-└── requirements.txt
+│   ├── 0229
+│   │   └── main.ipynb
+│   ├── 0307
+│   │   └── main.ipynb
+│   ├── 0314
+│   │   └── main.ipynb
+│   ├── 0321
+│   │   └── main.ipynb
+│   ├── 0328
+│   │   └── main.ipynb
+│   ├── 0411
+│   │   └── main.ipynb
+│   ├── 0425
+│   │   └── main.ipynb
+│   ├── 0502
+│   │   └── main.ipynb
+│   ├── 0509
+│   │   └── main.ipynb
+│   ├── 0523
+│   │   └── main.ipynb
+│   ├── 0530
+│   │   └── main.ipynb
+│   └── 0606
+│       └── main.ipynb
+└── README.md
 ```
 
 ### Deployment
